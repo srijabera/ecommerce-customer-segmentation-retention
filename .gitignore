@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project datasets
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
