@@ -107,7 +107,14 @@ The interactive dashboard contains three pages:
 2. **Customer Segmentation** – Segment-wise customer count, revenue contribution, and RFM comparison.
 3. **Retention Analysis** – One-time versus repeat customers, repeat purchase rate, and customer retention indicators.
 
-Dashboard screenshots will be added to this README after the repository files are uploaded.
+### Customer Overview
+![Customer Overview](dashboard_screenshots/customer_overview.png)
+
+### Customer Segmentation
+![Customer Segmentation](dashboard_screenshots/customer_segmentation.png)
+
+### Retention Analysis
+![Retention Analysis](dashboard_screenshots/retention_analysis.png)
 
 ## Repository Structure
 
