@@ -153,4 +153,4 @@ ecommerce-customer-segmentation-retention/
 BCA Student | Aspiring Data Science & Machine Learning Professional
 
 - GitHub: [srijabera](https://github.com/srijabera)
-- LinkedIn: Add your LinkedIn profile URL here
+  
