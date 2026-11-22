@@ -1,0 +1,5 @@
+cluster_name,customer_count,total_revenue,average_spending,revenue_percentage
+Recent High-Spenders,32369,8128784.92,251.13,61.48
+Hibernating Customers,27189,2988101.65,109.9,22.6
+Recent Low-Spenders,30999,1376202.79,44.4,10.41
+Repeat Buyers,2801,728408.75,260.05,5.51

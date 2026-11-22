@@ -1,0 +1,5 @@
+cluster,customer_count,avg_recency,median_recency,avg_frequency,median_frequency,avg_monetary,median_monetary,percentage
+0,30999,154.18,155.0,1.0,1.0,44.4,43.5,33.2
+1,27189,425.64,419.0,1.0,1.0,109.9,82.0,29.12
+2,2801,219.81,199.0,2.11,2.0,260.05,182.1,3.0
+3,32369,160.73,157.0,1.0,1.0,251.13,159.0,34.67

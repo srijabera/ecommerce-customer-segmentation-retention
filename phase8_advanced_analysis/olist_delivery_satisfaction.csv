@@ -1,0 +1,4 @@
+delivery_status,order_count,average_satisfaction,average_delay_days
+Early,88163,4.294292012144172,-13.709560700066922
+Late,6381,2.2718225983388183,10.518414041686256
+On-Time,1280,4.035546875,0.0

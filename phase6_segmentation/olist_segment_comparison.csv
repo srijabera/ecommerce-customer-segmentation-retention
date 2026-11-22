@@ -1,0 +1,5 @@
+cluster_name,customer_count,recency_median,recency_mean,frequency_median,frequency_mean,monetary_median,monetary_mean
+Hibernating Customers,27189,419.0,425.64,1.0,1.0,82.0,109.9
+Recent High-Spenders,32369,157.0,160.73,1.0,1.0,159.0,251.13
+Recent Low-Spenders,30999,155.0,154.18,1.0,1.0,43.5,44.4
+Repeat Buyers,2801,199.0,219.81,2.0,2.11,182.1,260.05
